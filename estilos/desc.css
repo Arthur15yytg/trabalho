@@ -1,0 +1,15 @@
+section {
+  width: 70%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 50px auto;
+}
+
+.img img {
+  width: 650px;
+  height: 550px;
+}
+
+.texto p {
+  font-size: 21.5px;
+}
